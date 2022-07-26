@@ -8,7 +8,7 @@
 
 
 #include <Wire.h>
-#include <vl53l0x_class.h>      // Click to install library: http://librarymanager/All#stm32duino_vl53l0x
+#include "../lib/STM32duino_VL53L0X-2.0.1/src/vl53l0x_class.h"      // Click to install library: http://librarymanager/All#stm32duino_vl53l0x
 VL53L0X sensorB_vl53l0x(&Wire, WB_IO2); 
 VL53L0X sensorC_vl53l0x(&Wire, WB_IO4); 
 
