@@ -1,10 +1,9 @@
 /**
-   @file RAK12014_Distance_Detection.ino
-   @author rakwireless.com
-   @brief Distance detection by laser
-   @version 0.1
-   @date 2021-8-28
-   @copyright Copyright (c) 2020
+   file RAK12014_Distance_Detection.ino
+   author Vitor E. Schoepping, with example of RAK Wireless
+   brief Using two sensor VL53L0X
+   version 1.0
+   date 2022-7-26
 **/
 
 
